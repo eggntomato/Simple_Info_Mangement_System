@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QLKH</string>
+    <string name="username">Tên Đăng Nhập</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="Manage_Systems">QUẢN LÝ KHÁCH HÀNG</string>
+</resources>
